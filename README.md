@@ -2,9 +2,9 @@
 [![committers.top badge](https://user-badge.committers.top/mali_private/aboubacarbane.svg)](https://user-badge.committers.top/mali_private/aboubacarbane)
 - Senior Web Developer passionate about crafting smart and scalable digital solutions.
 - I’m deeply interested in web and mobile development, especially in everything related to PHP (Laravel), and JavaScript ecosystems.
-- I’m constantly learning — because “the more we learn, the more we realize how much we still have to learn.”
+- I’m constantly learning - because “the more we learn, the more we realize how much we still have to learn.”
 - I love collaborating on innovative projects that make real impact.
-- Hobbies: Coding (obviously 😄) & Football — two passions that teach teamwork, strategy, and persistence.
+- Hobbies: Coding (obviously 😄) & Football - two passions that teach teamwork, strategy, and persistence.
   ## Contact 🤝
 - E-mail : aboubacarbane@gmail.com
 - Portfolio : https://aboubacar-bane-portfolio.netlify.app/
